@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" client="site" type="template" method="upgrade">
+    <name>DarkTech</name>
+    <creationDate>2015-05-07</creationDate>
+    <version>0.1</version>
+    <author>AUnited Co Ltd</author>
+    <authorUrl>http://aunited.ru</authorUrl>
+    <description>Dark Template</description>
+    <files>
+		<folder>css</folder>
+		<folder>html</folder>
+		<folder>images</folder>
+		<folder>js</folder>
+		<file>favicon.ico</file>
+		<file>index.html</file>
+		<file>index.php</file>
+		<file>templateDetails.xml</file>
+		<file>template_preview.png</file>
+		<file>template_thumbnail.png</file>
+    </files>
+    <positions>
+        <position>debug</position>
+        <position>position-1</position>
+        <position>position-2</position>
+        <position>position-3</position>
+        <position>position-4</position>
+        <position>position-5</position>
+        <position>position-6</position>
+        <position>position-7</position>
+        <position>position-8</position>
+        <position>position-9</position>
+        <position>position-10</position>
+    </positions>
+    <config>
+        <fields name="params">
+            <fieldset name="basic"/>
+        </fields>
+    </config>
+</extension>
